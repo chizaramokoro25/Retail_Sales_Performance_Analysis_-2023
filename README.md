@@ -15,3 +15,9 @@ Tools & Technologies
 - Documentation: MS Word
 
 Analysis Process
+- Data collection and exploration
+- Data cleaning and preparation
+- Data analysis and calculations
+- Identification of sales trend and patterns
+- Data visualisation and dashboard development
+- Interpretation of findings
